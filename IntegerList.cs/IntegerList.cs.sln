@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerList.cs", "IntegerList.cs\IntegerList.cs.csproj", "{D37CF6FE-AA93-4C6D-B2D0-E77649B0E985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipCode.cs", "ZipCode.cs\ZipCode.cs.csproj", "{F480D442-540A-41A2-8FE0-58CD1973B2BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D37CF6FE-AA93-4C6D-B2D0-E77649B0E985}.Debug|x86.ActiveCfg = Debug|x86
+		{D37CF6FE-AA93-4C6D-B2D0-E77649B0E985}.Debug|x86.Build.0 = Debug|x86
+		{D37CF6FE-AA93-4C6D-B2D0-E77649B0E985}.Release|x86.ActiveCfg = Release|x86
+		{D37CF6FE-AA93-4C6D-B2D0-E77649B0E985}.Release|x86.Build.0 = Release|x86
+		{F480D442-540A-41A2-8FE0-58CD1973B2BD}.Debug|x86.ActiveCfg = Debug|x86
+		{F480D442-540A-41A2-8FE0-58CD1973B2BD}.Debug|x86.Build.0 = Debug|x86
+		{F480D442-540A-41A2-8FE0-58CD1973B2BD}.Release|x86.ActiveCfg = Release|x86
+		{F480D442-540A-41A2-8FE0-58CD1973B2BD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
